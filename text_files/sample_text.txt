@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog. The dog is sleeping in the sun.
+Foxes are clever animals and the dog is a loyal friend. Brown foxes climb steep hills.
+This is a test to see if the program can extract tags correctly.
